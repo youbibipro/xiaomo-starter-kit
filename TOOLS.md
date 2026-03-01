@@ -6,7 +6,7 @@
 
 ```
 ## Gmail
-- 账号: your@gmail.com
+- 账号: youbibipro@gmail.com
 
 ## 常用命令
 - 查天气: weather Beijing
